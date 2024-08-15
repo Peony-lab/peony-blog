@@ -1,6 +1,6 @@
 import { CONFIG } from "site.config"
 import React from "react"
-import { CgAsterisk } from "rocketicons/cg";
+import { CgAsterisk } from "rocketicons/cg"
 import styled from "@emotion/styled"
 import { Emoji } from "src/components/Emoji"
 
