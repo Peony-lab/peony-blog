@@ -16,7 +16,7 @@ const ServiceCard: React.FC = () => {
             rel="noreferrer"
             target="_blank"
           >
-            <div className="name">{project.name}</div>
+            <div className="name"><emoji>✱</emoji> {project.name}</div>
           </a>
         ))}
       </StyledWrapper>
