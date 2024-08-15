@@ -1,13 +1,13 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    name: "peony",
+    image: "https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjoxLCJub3NlIjoxMCwibW91dGgiOjcsImV5ZXMiOjgsImV5ZWJyb3dzIjowLCJnbGFzc2VzIjowLCJoYWlyIjoyMiwiYWNjZXNzb3JpZXMiOjYsImRldGFpbHMiOjMsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "EN > KR Translator",
+    bio: "I create happy user experience.",
+    email: "translatorhoyeon@gmail.com",
+    linkedin: "translatorhoyeon",
+    github: "Peony-lab",
     instagram: "",
   },
   projects: [
@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "peony-log",
+    description: "welcome to peony-log!",
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
