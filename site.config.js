@@ -12,7 +12,7 @@ const CONFIG = {
   },
     projects: [
     {
-      name: `Hoyeon`,
+      name: `My Homepage`,
       href: "https://sore-artichoke-14e.notion.site/Hoyeon-4d25178b244d49e8b2373ad3c21b8ddb?pvs=4",
     },
   ],
