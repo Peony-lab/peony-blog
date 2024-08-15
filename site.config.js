@@ -12,8 +12,8 @@ const CONFIG = {
   },
     projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Hoyeon`,
+      href: "https://sore-artichoke-14e.notion.site/Hoyeon-4d25178b244d49e8b2373ad3c21b8ddb?pvs=4",
     },
   ],
   // blog setting (required)
