@@ -8,9 +8,6 @@ const ServiceCard: React.FC = () => {
   if (!CONFIG.projects) return null
   return (
     <>
-      <StyledTitle>
-        Hompage
-      </StyledTitle>
       <StyledWrapper>
         {CONFIG.projects.map((project, idx) => (
           <a
