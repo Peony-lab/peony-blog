@@ -12,6 +12,9 @@ import { Emoji } from "src/components/Emoji"
 const ContactCard: React.FC = () => {
   return (
     <>
+      <StyledTitle>
+        Contact
+      </StyledTitle>
       <StyledWrapper>
         {CONFIG.profile.github && (
           <a
