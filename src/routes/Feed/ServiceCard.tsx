@@ -1,6 +1,5 @@
 import { CONFIG } from "site.config"
 import React from "react"
-import { FaAsterisk } from "react-icons/fa"
 import styled from "@emotion/styled"
 import { Emoji } from "src/components/Emoji"
 
@@ -19,7 +18,6 @@ const ServiceCard: React.FC = () => {
             rel="noreferrer"
             target="_blank"
           >
-            <FaAsterisk className="icon" />
             <div className="name"><emoji>✱</emoji> {project.name}</div>
           </a>
         ))}
