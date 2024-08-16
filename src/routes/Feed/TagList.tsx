@@ -79,6 +79,9 @@ const TagList: React.FC<Props> = () => {
 
   return (
     <StyledWrapper>
+      <div className="top">
+        <Emoji>🏷️</Emoji> Tags
+      </div>
       <div className="list">{tagContents()}</div>
     </StyledWrapper>
   )
