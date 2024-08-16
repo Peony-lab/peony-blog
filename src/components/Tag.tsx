@@ -13,9 +13,9 @@ const Tag: React.FC<Props> = ({ children }) => {
     router.push(`/?tag=${value}`)
   }
   return (
-    <StyledWrapper onClick={() => handleClick(children)}>
-      {children}
-    </StyledWrapper>
+  <StyledWrapper onClick={() => handleClick(children)}>
+  {children.split("::")[2]}
+  </StyledWrapper>
   )
 }
 
